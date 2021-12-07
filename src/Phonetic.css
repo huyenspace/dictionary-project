@@ -1,0 +1,20 @@
+.Phonetic {
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.Phonetic i {
+  font-size: 15px;
+  background-color: coral;
+  color: white;
+  border-radius: 100%;
+  padding: 8px;
+  margin-right: 10px;
+  transition: all 200ms ease-in-out;
+}
+.Phonetic i:hover {
+  background-color: chocolate;
+}
+.Phonetic span {
+  font-size: 18px;
+  color: chocolate;
+}
