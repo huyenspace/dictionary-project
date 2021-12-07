@@ -1,0 +1,15 @@
+.Meaning {
+  color: darkblue;
+  margin-left: 50px;
+}
+.Meaning h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.Meaning p {
+  font-size: 18px;
+}
+.Meaning p em {
+  opacity: 0.5;
+}
