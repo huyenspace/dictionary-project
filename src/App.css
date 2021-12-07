@@ -18,3 +18,17 @@
   margin: 0;
   padding: 0;
 }
+.App footer {
+  text-align: center;
+  color: darkblue;
+  margin-bottom: 10px;
+}
+.App footer a {
+  text-decoration: none;
+  color: darkblue;
+  transition: all 100ms ease-in-out;
+}
+.App footer a:hover {
+  color: chocolate;
+  text-decoration: underline;
+}
